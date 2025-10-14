@@ -78,3 +78,7 @@ outputs = ["Reveal"]
 ### Long-term goals
 
 ✨ Collective Operating Systems ✨
+
+---
+
+Next: 22 October 2025

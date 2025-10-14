@@ -52,3 +52,29 @@ outputs = ["Reveal"]
 - At that point, I have to _fill out the form_ available on the university intranet for PhD student mobility abroad and also the one that entitles me to the _50% scholarship increase_; once this is authorized, everything is set.
 - When the Marco Polo call opens (**usually in December**), I need to _write a project proposal_ and complete the procedure on the website to apply for the call.
 - When I come back, I have to write a _final project report_ to attach to the Marco Polo call documents, and then fill in the return form to be sent to AFORM.
+
+---
+
+# Week 2 -- 15 October 2025
+
+### Tasks and short-term goals
+
+1. Publish _Field VMC_ journal (deadline: undefined, priority: high, *waiting for editor to send further info*) \
+    → Still no update from them, I checked the site every day too.
+2. Study _CLF-CBF-QP_ for period abroad (deadline: ASAP, priority: high, *in progress*) \
+    → still in progress, not bad, we have to plan the period with Ale this or next week.
+3. Implementation of _time replication_ in Collektive—necessary for self-stabilizing Gossip validation
+   (deadline: undefined, priority: medium, *shared Clock done with tests*) \
+   → paused due to work on point [2]
+
+### Medium-term goals
+
+1. _Collektive journal_: venue and contribute to define yet (priority: medium-high) \
+    → Possible venues: Journal of open research science, or JSS
+2. Paper on _Self-Stabilizing Gossip_, initial possible venues: SEAMS, others to define 
+    (deadline: undefined, priority: medium, current status: draft paper done for PhD course—missing evaluation due to previous point [1.3])
+3. Possible work with GCiatto for ACSOS-2026 about "*distributed particle filter in AC/Collektive*" (priority: medium, I did not read the original paper yet)
+4. About *ACSOS-2026*: possibility to showcase the NdR demo, or doing a tutorial about Collektive (if journal is out)
+### Long-term goals
+
+✨ Collective Operating Systems ✨

@@ -81,4 +81,30 @@ outputs = ["Reveal"]
 
 ---
 
-Next: 22 October 2025
+# Week 3 -- 22 October 2025
+
+### Tasks and short-term goals
+1. Publish _Field VMC_ journal (deadline: undefined, priority: high, *waiting for editor to send further info*) \
+    → Still no update from them, I checked the site every day too and emailed them.
+2. Study _CLF-CBF-QP_ for period abroad (deadline: ASAP, priority: high, *in progress*) \
+    → at this point we should have the update from Ale thanks to the meeting we have just finished.
+3. Implementation of _time replication_ in Collektive—necessary for self-stabilizing Gossip validation
+   (deadline: undefined, priority: medium, *completed*) \
+   → PR opened, checks are green, waiting for review.
+   ⁉️ Should I start working on the evaluation?
+
+### Medium-term goals
+1. _Collektive journal_: (priority: medium-high) venue JSS, first flow draft has been written.
+2. Paper on _Self-Stabilizing Gossip_, initial possible venues: SEAMS(2027..), others to define (SEWORLD?) 
+    (deadline: undefined, priority: medium, current status: draft paper done for PhD course—missing evaluation due to previous point [1.3])
+   → Waiting for Collektive journal to be finished to finalize this one.
+3. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto and Davide.
+   Spoke with Nico about the possibility to showcase the NdR demo, or doing a tutorial about Collektive (if journal is out).
+4. Work for ACSOS-2026 as publicity co-chair.
+
+### Long-term goals
+✨ Collective Operating Systems ✨
+    
+---
+
+Next: 31 October 2025

@@ -131,5 +131,28 @@ outputs = ["Reveal"]
 
 ---
 
-Next: 6 November 2025
+# Week 5 -- 6 November 2025
 
+### Tasks and short-term goals
+
+1. Publish _Field VMC_ journal (deadline: undefined, priority: high) -- Status: we have to pay, Springer is filling our form.
+2. Collektive Journal (target: JSS, status **doing**)
+3. Study _CLF-CBF-QP_ for period abroad -- Next step: preparing presentation for aggregate reading group (if possible).
+4. Implementation of _time replication_ -- Done, missing review.
+
+### Medium-term goals
+
+1. Paper on _Self-Stabilizing Gossip_ (deadline: undefined, status **blocked**) → Waiting for Collektive journal to be finished to finalize this one.
+2. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto and Davide. 
+
+### Long-term goals
+
+✨ Collective Operating Systems ✨ featuring:
+1. control barriers;
+2. processes;
+3. signals and interrupts;
+4. users and permissions.
+
+---
+
+Next: 14 november (maybe I need to reallocate)

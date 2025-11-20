@@ -177,4 +177,31 @@ outputs = ["Reveal"]
 
 ---
 
-NEXT: 21 November
+# Week 7 -- 20 November
+
+### Tasks and short-term goals
+1. Publish _Field VMC_ journal (deadline: undefined, priority: high) -- Status: we have to pay, Springer has filled our form, we should ping Sara.
+2. Collektive Journal (target: JSS, status **doing**)
+3. Study _CLF-CBF-QP_ for period abroad -- Next step: preparing presentation for aggregate reading group.
+4. Implementation of _time replication_ -- Done, missing review.
+5. FormaliSE26 artifact evaluation (deadline 21 December) -- status **to do**.
+
+### Medium-term goals
+1. Paper on _Self-Stabilizing Gossip_ (target: Coordination, deadline: 6 February, status **TBD**)
+   → short intro to Gossip with no demonstration (keep that for journal).
+2. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto, Davide, Roby, and Mirko.
+   → If we find some preliminary results, there's the possibility to submit to Coordination.
+
+[Note that we kept track of AEiC 2026 deadlines just in case.]
+
+### Long-term goals
+✨ Collective Operating Systems ✨ featuring:
+1. control barriers;
+2. processes;
+3. signals and interrupts;
+4. users and permissions.
+
+---
+
+NEXT: 28 November
+

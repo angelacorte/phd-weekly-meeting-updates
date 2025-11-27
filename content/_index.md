@@ -1,18 +1,10 @@
 +++
-
 title = "Angela's PhD updates"
 description = "Weekly meeting updates on Angela's PhD progress"
 outputs = ["Reveal"]
-
 +++
 
 # Angela's PhD weekly meeting updates
-
-[//]: # ([**Angela Cortecchia**]&#40;mailto:angela.cortecchia@unibo.it&#41;)
-
-<div style="text-align: center; width: 100%;">
-
-</div>
 
 [//]: # (1. Task/obiettivi di breve termine, scadenze, priorità - e relativo progresso rispetto all'incontro precedente)
 [//]: # (2. Obiettivi di medio termine, sia progetti che tool che conf che journal)
@@ -203,5 +195,29 @@ outputs = ["Reveal"]
 
 ---
 
-NEXT: 28 November
+# Week 8 -- 27 November
+
+### Tasks and short-term goals
+1. Publish _Field VMC_ journal (deadline: undefined, priority: high) -- Status: we have to pay, Springer has filled our form, already pinged Sara.
+2. Collektive Journal (target: JSS, status **doing**)
+3. Study _CLF-CBF-QP_ for period abroad -- Prepared presentation for aggregate reading group (5 december), should check it.
+4. Marco Polo period abroad proposal -- status **done**, should check it.
+5. FormaliSE26 artifact evaluation (deadline 21 December) -- status **doing?**. 
+
+### Medium-term goals
+1. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto, Davide, Roby, and Mirko.
+   (deadline: 26 april, status **doing**)
+2. Paper on _Self-Stabilizing Gossip_ (target: Coordination, deadline: 6 February, status **will start soon**)
+   → short intro to Gossip with no demonstration (keep that for journal).
+
+### Long-term goals
+✨ Collective Operating Systems ✨ featuring: 
+1. control barriers;
+2. processes;
+3. signals and interrupts;
+4. users and permissions.
+
+---
+
+NEXT: 4 December
 

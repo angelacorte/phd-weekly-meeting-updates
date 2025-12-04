@@ -219,5 +219,28 @@ outputs = ["Reveal"]
 
 ---
 
-NEXT: 4 December
+# Week 9 -- 4 December
 
+### Tasks and short-term goals
+1. Publish _Field VMC_ journal (deadline: undefined, priority: high) -- Sara still has to pay.
+2. Collektive Journal (target: JSS, status **doing**)
+3. Study _CLF-CBF-QP_ for period abroad -- Presentation for aggregate reading group ready (tomorrow).
+4. FormaliSE26 artifact evaluation (deadline 21 December) -- status **doing**.
+5. ACSOS2026 Publicity Chair tasks -- status **doing**.
+
+### Medium-term goals
+1. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto, Davide, Roby, and Mirko.
+   (deadline: 26 april, status **doing**)
+2. Paper on _Self-Stabilizing Gossip_ (target: Coordination, deadline: 6 February, status **will start soon**)
+   → short intro to Gossip with no demonstration (keep that for journal).
+
+### Long-term goals
+✨ Collective Operating Systems ✨ featuring:
+1. control barriers;
+2. processes;
+3. signals and interrupts;
+4. users and permissions.
+
+---
+
+NEXT: 12 December > can we reschedule?  

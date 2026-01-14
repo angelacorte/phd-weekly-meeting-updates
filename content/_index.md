@@ -266,4 +266,29 @@ outputs = ["Reveal"]
 
 ---
 
-# Next ?
+# Week 11 -- 15 January
+
+Important: Collektive release is still broken.
+
+### Tasks and short-term goals
+1. Collektive Journal (target: JSS, status **doing**)
+2. Paper on _Self-Stabilizing Gossip_ (target: Coordination, deadline: 6 February, status **working on evaluation**)
+   → short intro to Gossip with demonstration.
+3. DCOSS IoT-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto, Davide, Roby, and Mirko.
+   (deadline: 26 april, status **doing**)
+4. FIELD BASED CLF-CBF-QP.
+
+### Medium-term goals
+1. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto, Davide, Roby, and Mirko.
+   (deadline: 26 april, status **none**)
+
+### Long-term goals
+✨ Collective Operating Systems ✨ featuring:
+1. control barriers;
+2. processes;
+3. signals and interrupts;
+4. users and permissions.
+
+---
+
+Next: 22 January

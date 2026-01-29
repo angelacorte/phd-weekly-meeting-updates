@@ -291,4 +291,24 @@ Important: Collektive release is still broken.
 
 ---
 
-Next: 22 January
+# Week 13 - 29 January
+
+### Tasks and short-term goals
+1. Thesis title.
+2. Collektive Journal (target: JSS, status **paused**)
+3. Paper on _Self-Stabilizing Gossip_ (target: Coordination, deadline: 6 February, status **done evaluation**)
+4. DCOSS IoT-2026: defined "*distributed particle filter in AC/Collektive*" (deadline: 8 Feb, status **doing**)
+5. CAROL: Coordinated Aggregate Robotics with Online control Lyapunov and barrier functions.
+6. Collektive release is still broken, after the deadlines I will focus on fixing it.
+7. Same for global election.
+
+### Medium-term goals
+1. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" with GCiatto, Davide, Roby, and Mirko.
+   (deadline: 26 april, status **none**)
+
+### Long-term goals
+✨ Collective Operating Systems ✨ featuring:
+1. control barriers;     
+2. processes;
+3. signals and interrupts;
+4. users and permissions.

@@ -312,3 +312,28 @@ Important: Collektive release is still broken.
 2. processes;
 3. signals and interrupts;
 4. users and permissions.
+
+---
+
+# Week 14 - 5 February
+
+### Tasks and short-term goals
+1. Thesis title → "Advances in Collective Robotics through macro-programming" (no updates yet)
+2. Collektive Journal (target: JSS, status **paused**)
+3. DCOSS IoT-2026: defined "*distributed particle filter in AC/Collektive*" (deadline: 8 Feb, status **doing**)
+4. Paper on _Self-Stabilizing Gossip_ (target: Coordination, deadline: 20 February)
+5. CAROL: Coordinated Aggregate Robotics with Online control Lyapunov and barrier functions.
+6. Read Turin's thesis about Collektive (deadline: end of February)
+7. Coordination CollektiveXUnity ❓ (deadline: 20 February)
+8. Collektive release is still broken, after the deadlines I will focus on fixing it.
+9. Same for global election.
+
+### Medium-term goals
+1. ACSOS-2026: defined "*distributed particle filter in AC/Collektive*" (deadline: 26 april, status **none**)
+
+### Long-term goals
+❓✨ Collective Operating Systems ✨❓ featuring:
+1. control barriers;    
+2. processes;
+3. signals and interrupts;
+4. users and permissions.

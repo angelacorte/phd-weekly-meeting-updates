@@ -356,7 +356,7 @@ Important: Collektive release is still broken.
 9. Same for global election.
 
 ### Medium-term goals
-1. Empty?
+1. ACSOS Publicity Chair tasks 
 
 ### Thesis students
 - UniTo x Collektive 

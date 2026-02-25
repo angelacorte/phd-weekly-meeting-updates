@@ -369,3 +369,28 @@ Important: Collektive release is still broken.
 2. processes;
 3. signals and interrupts;
 4. users and permissions.
+
+--- 
+
+# Week 16 - 26 February
+
+### Tasks and short-term goals
+1. Collektive Journal (target: JSS, status **paused**)
+2. CAROL: Coordinated Aggregate Robotics with Online control Lyapunov and barrier functions.
+3. ACSOS 2026: defined "*distributed particle filter in AC/Collektive*" (deadline: 21 Apr, status **doing**)
+4. Collektive global election is broken, I will focus on fixing it.
+
+### Medium-term goals
+1. ACSOS Publicity Chair tasks
+2. DCOSS IoT-2026 (waiting for notification: 28 march)
+3. Paper on _Self-Stabilizing Gossip_ + Artifact (waiting for notification: 23 March)
+4. Coordination CollektiveXUnity + Artifact (waiting for notification: 23 March) 
+
+### Thesis students
+- UniTo x Collektive (read thesis done)
+- Collektive x Unity
+- Collektive x VMC x CBF
+
+### Long-term goals
+❓✨ Collective Operating Systems ✨❓ featuring:
+control barriers - processes - signals and interrupts - users and permissions.
